@@ -1,0 +1,13 @@
+[Unit]
+Description=Steven's RFID Service
+After=network.target
+StartLimitIntervalSec=5
+[Service]
+Type=simple
+Restart=always
+RestartSec=2
+User=root
+ExecStart=/app/jobctl.py
+
+[Install]
+WantedBy=multi-user.target

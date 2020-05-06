@@ -1,0 +1,616 @@
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:00Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:03Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:05Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:05Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:07Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:07Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:09Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:09Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:11Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:12Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:12Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:14Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:14Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:14Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:16Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:16Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:18Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:18Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:18Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:20Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:20Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:21Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:22Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:25Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:25Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:25Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:27Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:27Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:27Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:29Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:29Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:31Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:31Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:32Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:34Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:34Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:36Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:36Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:36Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:38Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:38Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:40Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:40Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:40Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:42Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:42Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:43Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:44Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:45Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:45Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:47Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:47Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:49Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:51Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:51Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:51Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:53Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:53Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:53Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:47:56Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:58Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:47:58Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:00Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:02Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:02Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:04Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:04Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:07Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:07Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:09Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:09Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:10Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:11Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:11Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:13Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:13Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:15Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:16Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:17Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:17Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:18Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:19Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:20Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:20Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:22Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:22Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:23Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:24Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:24Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:26Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:26Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:28Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:29Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:31Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:31Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:33Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:33Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:35Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:35Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:37Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:39Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:39Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:40Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:42Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:42Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:44Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:44Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:45Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:46Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:48Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:48Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:49Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:50Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:51Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:51Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:48:52Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:53Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:55Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:55Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:57Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:48:57Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:00Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:01Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:02Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:02Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:04Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:04Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:06Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:08Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:08Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:11Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:11Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:12Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:13Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:14Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:15Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:15Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:16Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:17Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:17Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:19Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:22Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:22Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:24Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:26Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:27Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:28Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:28Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:30Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:31Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:31Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:33Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:35Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:35Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:37Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:38Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:39Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:40Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:40Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:41Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:42Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:44Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:44Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:45Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:46Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:46Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:47Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:48Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:49Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:51Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:51Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:52Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:53Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:55Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:55Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:49:56Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:57Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:59Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:49:59Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:01Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:02Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:04Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:05Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:06Z"}
+
+{}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:08Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:10Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:10Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:11Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:12Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:12Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:13Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:15Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:16Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:17Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:18Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:19Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:19Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:21Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}, {"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:21Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:22Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:23Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:25Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:25Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:25Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:27Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:28Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:29Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:30Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:32Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:32Z"}
+
+{}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:34Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:34Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:36Z"}
+
+{}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:38Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:39Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:39Z"}
+
+{}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:41Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:41Z"}
+
+{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-06T13:50:42Z"}
+
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:43Z"}
+
+{"5e858257408dc53e56b54687": {"technology": "rfid", "proximity": "far", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-06T13:50:43Z"}
+
+Exception KeyError: KeyError(1995393216,) in <module 'threading' from '/usr/lib/python2.7/threading.pyc'> ignored
+Unhandled exception in thread started by 
+sys.excepthook is missing
+lost sys.stderr

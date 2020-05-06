@@ -1,0 +1,17 @@
+{
+	"status": "stopped",
+	"name": "match_test",
+	"created": "2020-04-29T07:05:56Z",
+	"started": "2020-05-06T08:57:55Z",
+	"pid":0,
+	"item": "5881c51ead430f27898bf457",
+	"location": "5a43666aad430f7559b7ce82",
+	"config": {
+		"brain_address": "invengoasia.intellifi.nl",
+		"api_key": "3b8cbbcf-b10e-41a9-8cee-a9a956bd9c1f",
+		"report_interval": 2
+	},
+	"exited": "2020-05-06T08:58:26Z",
+	"restart": "no",
+	"mode": "match"
+} 
