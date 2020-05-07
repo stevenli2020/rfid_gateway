@@ -27,34 +27,6 @@ atexit.register(HANDLE_EXIT)
 signal.signal(signal.SIGTERM, HANDLE_EXIT)
 signal.signal(signal.SIGINT, HANDLE_EXIT)
 
-
-Ssid_Signal = {
-    "SSID": "SIGNAL",
-    "SSID1": "SIGNA1L"
-    }
-
-ApMode = 0 
-GreenThisTime = 0
-RedThisTime = 0
-SwitchLong = 0
-SwitchShort = 0
-ShortSwitchDelay = 10 
-
-MACHINE_ID = '/usr/bin/tmp4.txt'
-WIFI_IP_ADDRESS = '/tmp/ip_address'
-WiFiList = '/etc/WiFiAccessPointList'
-IOTCONNECT_RUNNING = '/tmp/iotconnect.txt'
-GREEN_LED ='/sys/class/leds/green/brightness'
-RED_LED = '/sys/class/leds/red/brightness'
-
-# TODO: Probably use '/etc/activated' or some other file that is
-# created when the device is activated.
-ACTIVATION_FILE = '/usr/bin/device.txt'
-
-# TODO: Need to change to 'avid....' at some point?
-TEST_ADDRESS = ('avnet.iotconnect.io.', 443)
-TEST_TIMEOUT = 4  # In seconds
-
 def app_json(func):
     def inner(*args, **kwargs):
         response.content_type = 'application/json'
@@ -81,7 +53,7 @@ def init_jobs():
 
 def check_pid(pid):        
     try:
-        os.kill(pid, 0)
+        os.kill(pid, 0) 
     except OSError:
         return False
     else:
@@ -93,8 +65,9 @@ def kill_job(ID):
 def kill_job_2(ID):
 	subprocess.check_output(['pkill','-f',ID])
 
-def start_job(ID):
-	os.system("nohup /app/run.py "+ID+" > /app/data/"+ID+".out &")
+def run_job(ID):
+	# os.system("nohup /app/run.py "+ID+" >/dev/null 2>&1 &")
+	subprocess.Popen(['/app/run.py '+ID], shell=True)
 	
 @get('/jobs/get/<j>')
 def get_jobs(j):
@@ -118,6 +91,26 @@ def get_jobs(j):
 	else:
 		return "[]\n"
 
+@get('/jobs/start/<id>')
+def start_job(id):
+	global JOBS
+	init_jobs()
+	if id=="all":
+		RESP = []
+		for ID in JOBS.keys():
+			if JOBS[ID]['status'] != "started":
+				run_job(ID)
+				time.sleep(0.2)
+				RESP.append(ID)
+		return json.dumps(RESP)+"\n"
+	else:
+		if JOBS[id]['status'] != "started":
+			run_job(id)
+			time.sleep(0.2)
+			return id+"\n"	
+		else:
+			return id+" already loaded\n"		
+		
 @get('/jobs/stop/<id>')
 def stop_job(id):
 	global JOBS
@@ -136,8 +129,8 @@ def stop_job(id):
 		init_jobs()
 		return id+"\n"		
 
-@get('/jobs/suspend/<id>')
-def suspend_job(id):
+@get('/jobs/disable/<id>')
+def disable_job(id):
 	global JOBS
 	init_jobs()
 	if id=="all":
@@ -168,17 +161,17 @@ def suspend_job(id):
 				f0.truncate()
 			return id+"\n"	
 		else:
-			return id+" already suspended\n"
+			return id+" already disabled\n"
 
-@get('/jobs/reload/<id>')
-def reload_job(id):
+@get('/jobs/enable/<id>')
+def enable_job(id):
 	global JOBS
 	init_jobs()
 	if id=="all":
 		RESP = []
 		for ID in JOBS.keys():
 			if JOBS[ID]['status'] != "started":
-				start_job(ID)
+				run_job(ID)
 				time.sleep(0.5)
 			if JOBS[ID]['restart'] != "always":
 				with open('/app/data/jobs.json', 'r+') as f0:
@@ -191,7 +184,7 @@ def reload_job(id):
 		return json.dumps(RESP)+"\n"
 	else:
 		if JOBS[id]['status'] != "started":
-			start_job(id)
+			run_job(id)
 			time.sleep(0.5)
 		if JOBS[id]['restart'] != "always":
 			with open('/app/data/jobs.json', 'r+') as f0:
@@ -265,19 +258,23 @@ def error_response(error):
     }
 
 if __name__ == '__main__':
+	os.system("mount -a")
+	os.system("mkdir /app/data/running")
 	os.system("cp /app/jobs.json /app/data/jobs.json")
 	JOBS = {}
-	init_jobs()
+	init_jobs() 
+	print json.dumps(JOBS)
 	for ID,JOB in JOBS.iteritems():
 		if JOB['restart'] == "always":
 			print "Starting job: "+ID+" "+JOB['name']+"..."
 			if check_pid(JOB['pid']):
 				kill_job(ID)
-			start_job(ID)
+			run_job(ID)
 			print "OK"
 		time.sleep(0.5)
-	time.sleep(2)
+	time.sleep(2)	
 	init_jobs()
-	print json.dumps(JOBS)
+	# print json.dumps(JOBS)
 	thread.start_new_thread(update_jobs,())
+	
 	run(host='0.0.0.0', port=80)

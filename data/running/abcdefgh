@@ -1,0 +1,3 @@
+PID=696
+2020-05-07T03:46:35Z
+{"5e815848408dc53e56b5460e": {"technology": "rfid", "proximity": "immediate", "type": "item", "locations": [{"position": {"y": 0.16481080080889263, "x": 0.8577211024419006, "radius": 0.0869372553425633, "angle": 0}, "id": "5d5f51aef662993ec6888102", "label": "Inv Entrance"}], "label": ""}, "time": "2020-05-07T03:46:35Z"}

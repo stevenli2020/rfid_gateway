@@ -1,7 +1,7 @@
 [Unit]
 Description=Steven's RFID Service
 After=network.target
-StartLimitIntervalSec=5
+StartLimitIntervalSec=10
 [Service]
 Type=simple
 Restart=always
