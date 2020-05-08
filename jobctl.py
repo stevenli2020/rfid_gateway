@@ -23,6 +23,7 @@ def HANDLE_EXIT(*arg):
 		f0.seek(0)
 		f0.write(json.dumps(JOBS))
 		f0.truncate()	
+	os.remove('/app/data/jobs.json')
 	sys.exit()
 	
 atexit.register(HANDLE_EXIT)
@@ -268,8 +269,7 @@ def error_response(error):
 
 if __name__ == '__main__':
 	os.system("mount -a")
-	os.system("mkdir /app/data/running")
-	os.system("cp /app/jobs.json /app/data/jobs.json")
+	os.system("cp /app/jobs.json /app/run/jobs.json")
 	JOBS = {}
 	init_jobs() 
 	print json.dumps(JOBS)

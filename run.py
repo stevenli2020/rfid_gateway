@@ -19,7 +19,7 @@ def HANDLE_EXIT(*arg):
 	if not EXITING:
 		EXITING = True
 		time.sleep(random.random())
-		with open('/app/data/jobs.json', 'r+') as f0:
+		with open('/app/run/jobs.json', 'r+') as f0:
 			JOBS = json.loads(f0.read())
 			JOBS[JOB_ID]['pid'] = 0
 			JOBS[JOB_ID]['status'] = "stopped"
@@ -35,8 +35,8 @@ def HANDLE_EXIT(*arg):
 		sys.exit()
 	
 atexit.register(HANDLE_EXIT)
-# signal.signal(signal.SIGTERM, HANDLE_EXIT)
-# signal.signal(signal.SIGINT, HANDLE_EXIT)
+signal.signal(signal.SIGTERM, HANDLE_EXIT)
+signal.signal(signal.SIGINT, HANDLE_EXIT)
 
 def GET_PRESENCE(MODE,URL,INT):
 	global JOB_ID
@@ -130,12 +130,12 @@ sys.excepthook = UNHANDLED_EXCEPTION
 #===================================================================
 EXITING = False 
 JOB_ID = sys.argv[1]
-POST_FILE = '/app/data/running/'+JOB_ID
-LOG_FILE = '/app/data/running/LOG-'+JOB_ID
+POST_FILE = '/app/run/'+JOB_ID
+LOG_FILE = '/app/run/LOG-'+JOB_ID
 PID = os.getpid()
 POST("Job started")
 	
-with open('/app/data/jobs.json', 'r+') as f0:
+with open('/app/jobs.json', 'r+') as f0:
 	JOBS = json.loads(f0.read())
 	JOBS[JOB_ID]['pid'] = PID
 	JOBS[JOB_ID]['status'] = "started"

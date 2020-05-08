@@ -1,3 +1,0 @@
-PID=11955
-2020-05-08T04:30:24Z
-{"type": "location", "locations": {"5d5f51aef662993ec6888102": {"items": [{"sets": [], "proximity": "immediate", "label": "", "id": "5e815848408dc53e56b5460e", "code_hex": "0028030bc17019470a77293b"}, {"sets": [], "proximity": "immediate", "label": "", "id": "5e86af1b408dc53e56b546c4", "code_hex": "800316800830703600665e48"}, {"sets": [], "proximity": "near", "label": "", "id": "5e858252408dc53e56b54686", "code_hex": "0028030bc17019470a772e96"}, {"sets": [], "proximity": "far", "label": "", "id": "5e815849408dc53e56b5460f", "code_hex": "0028030bc17019470a77294c"}], "label": "Inv Entrance"}}, "time": "2020-05-08T04:30:24Z"}
