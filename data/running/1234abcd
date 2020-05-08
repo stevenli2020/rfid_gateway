@@ -1,3 +1,0 @@
-PID=714
-2020-05-07T03:46:35Z
-{"5b3c5c62ad430f37f45e2b75": {"technology": "rfid", "proximity": "far", "type": "match", "locations": [{"position": {"y": 0.6939570583356646, "x": 0.5938913447458845, "radius": 0.07264165101694672, "angle": 0.613876133267056}, "id": "5a43666aad430f7559b7ce82", "label": "Inv Demo Area"}], "label": ""}, "time": "2020-05-07T03:46:35Z"}

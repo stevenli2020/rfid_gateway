@@ -1,0 +1,161 @@
+2020-05-08T03:29:14Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f910f8>
+2020-05-08T03:29:28Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f740f8>
+2020-05-08T03:30:14Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f090f8>
+2020-05-08T03:30:23Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f0a0f8>
+2020-05-08T03:31:15Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f770f8>
+2020-05-08T03:31:23Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75ef30f8>
+2020-05-08T03:31:45Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75eec0f8>
+2020-05-08T03:32:16Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75fd00f8>
+2020-05-08T03:33:04Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75f280f8>
+2020-05-08T03:34:19Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75ef7fa8>
+2020-05-08T03:34:42Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75fd2fa8>
+2020-05-08T03:34:42Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75fd2f80>
+2020-05-08T03:35:17Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75efa148>
+2020-05-08T03:35:48Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.NameError'>
+VALUE:
+name 'item' is not defined
+TRACE BACK:
+<traceback object at 0x75fb10f8>
+2020-05-08T04:06:48Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75534328>
+2020-05-08T04:07:46Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75576940>
+2020-05-08T04:09:04Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75577dc8>
+2020-05-08T04:10:18Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75750670>
+2020-05-08T04:13:54Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x755b05d0>
+2020-05-08T04:14:25Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x755b02d8>
+2020-05-08T04:15:22Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75765698>
+2020-05-08T04:22:16Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x755f0698>
+2020-05-08T04:30:23Z
+<UNHANDLED_EXCEPTION>
+TYPE:<type 'exceptions.KeyboardInterrupt'>
+VALUE:
+
+TRACE BACK:
+<traceback object at 0x75715aa8>

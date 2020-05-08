@@ -14,6 +14,8 @@ from datetime import datetime
 import thread
 import random,string
 import atexit,signal
+import requests
+
 def HANDLE_EXIT(*arg): 
 	global JOBS
 	init_jobs()
@@ -244,6 +246,13 @@ def setjob(id):
 		f0.write(json.dumps(JOBS))
 		f0.truncate() 
 	return id+"\n"
+
+@get('/tags/get/epc/<id>')
+def getepc(id):
+	global JOBS
+	init_jobs()	
+	
+	
 	
 @error(404)  # Not Found
 @error(405)  # Method Not Allowed
