@@ -17,14 +17,14 @@ import atexit,signal
 import requests
 
 def HANDLE_EXIT(*arg): 
-	global JOBS
-	init_jobs()
-	with open('/app/jobs.json', 'r+') as f0:
-		f0.seek(0)
-		f0.write(json.dumps(JOBS))
-		f0.truncate()	
-	os.remove('/app/data/jobs.json')
-	sys.exit()
+	global JOBS,EXITING
+	if EXITING==0:
+		EXITING=1
+		time.sleep(1.5)
+		print "\n"+datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%fZ")+" > jbctl: Saving jobs.json\n"
+		os.system("cp /app/run/jobs.json /app/jobs.json")
+		os.system("mv /app/run/jobs.json /app/run/jobs.json_stopped")
+		sys.exit()
 	
 atexit.register(HANDLE_EXIT)
 signal.signal(signal.SIGTERM, HANDLE_EXIT)
@@ -38,19 +38,23 @@ def app_json(func):
     return inner
 
 def update_jobs():
-	global JOBS
-	while 1:
-		print datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")+" > Saving jobs.json"
-		init_jobs()
-		with open('/app/jobs.json', 'r+') as f0:
-			f0.seek(0)
-			f0.write(json.dumps(JOBS))
-			f0.truncate()
-		time.sleep(10)
+	global JOBS,EXITING
+	time.sleep(3)
+	T = os.stat("/app/run/jobs.json").st_mtime
+	while not EXITING:
+		if T != os.stat("/app/run/jobs.json").st_mtime:
+			T = os.stat("/app/run/jobs.json").st_mtime
+			print "\n"+datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")+" > jbctl: Saving jobs.json"
+			init_jobs()
+			with open('/app/jobs.json', 'r+') as f0:
+				f0.seek(0)
+				f0.write(json.dumps(JOBS))
+				f0.truncate()
+		time.sleep(1)
 	
 def init_jobs():
 	global JOBS
-	with open('/app/data/jobs.json', 'r+') as f0:
+	with open('/app/run/jobs.json', 'r+') as f0:
 		JOBS=json.loads(f0.read())
 	return
 
@@ -70,7 +74,7 @@ def kill_job_2(ID):
 
 def run_job(ID):
 	# os.system("nohup /app/run.py "+ID+" >/dev/null 2>&1 &")
-	subprocess.Popen(['/app/run.py '+ID], shell=True)
+	subprocess.Popen(['/app/run.py '+ID], shell=True) 
 	
 @get('/jobs/get/<j>')
 def get_jobs(j):
@@ -143,7 +147,7 @@ def disable_job(id):
 				kill_job_2(ID)
 				time.sleep(0.5)
 			if JOBS[ID]['restart'] == "always":
-				with open('/app/data/jobs.json', 'r+') as f0:
+				with open('/app/run/jobs.json', 'r+') as f0:
 					JOBS1=json.loads(f0.read())
 					JOBS1[ID]['restart']="no"
 					f0.seek(0)
@@ -156,7 +160,7 @@ def disable_job(id):
 			kill_job_2(id)
 			time.sleep(0.5)
 		if JOBS[id]['restart'] == "always":
-			with open('/app/data/jobs.json', 'r+') as f0:
+			with open('/app/run/jobs.json', 'r+') as f0:
 				JOBS1=json.loads(f0.read())
 				JOBS1[id]['restart']="no"
 				f0.seek(0)
@@ -177,7 +181,7 @@ def enable_job(id):
 				run_job(ID)
 				time.sleep(0.5)
 			if JOBS[ID]['restart'] != "always":
-				with open('/app/data/jobs.json', 'r+') as f0:
+				with open('/app/run/jobs.json', 'r+') as f0:
 					JOBS1=json.loads(f0.read())
 					JOBS1[ID]['restart']="always"
 					f0.seek(0)
@@ -190,7 +194,7 @@ def enable_job(id):
 			run_job(id)
 			time.sleep(0.5)
 		if JOBS[id]['restart'] != "always":
-			with open('/app/data/jobs.json', 'r+') as f0:
+			with open('/app/run/jobs.json', 'r+') as f0:
 				JOBS1=json.loads(f0.read())
 				JOBS1[id]['restart']="always"
 				f0.seek(0)
@@ -209,7 +213,7 @@ def newjob():
 	ID = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(8))
 	JOBS[ID]=DATA
 	JOBS[ID]['status']="stopped"
-	with open('/app/data/jobs.json', 'r+') as f0:
+	with open('/app/run/jobs.json', 'r+') as f0:
 		f0.seek(0)
 		f0.write(json.dumps(JOBS))
 		f0.truncate()	
@@ -224,7 +228,7 @@ def deletejob(id):
 	if JOBS[id]['status']=="started":
 		return "job still running\n"
 	del JOBS[id]
-	with open('/app/data/jobs.json', 'r+') as f0:
+	with open('/app/run/jobs.json', 'r+') as f0:
 		f0.seek(0)
 		f0.write(json.dumps(JOBS))
 		f0.truncate()	
@@ -242,7 +246,7 @@ def setjob(id):
 		if K=="status" or K=="pid":
 			continue			
 		JOBS[id][K]=V
-	with open('/app/data/jobs.json', 'r+') as f0:
+	with open('/app/run/jobs.json', 'r+') as f0:
 		f0.seek(0)
 		f0.write(json.dumps(JOBS))
 		f0.truncate() 
@@ -267,12 +271,13 @@ def error_response(error):
         'Method': request.method
     }
 
+EXITING = 0	
 if __name__ == '__main__':
 	os.system("mount -a")
 	os.system("cp /app/jobs.json /app/run/jobs.json")
 	JOBS = {}
 	init_jobs() 
-	print json.dumps(JOBS)
+	# print json.dumps(JOBS)
 	for ID,JOB in JOBS.iteritems():
 		if JOB['restart'] == "always":
 			print "Starting job: "+ID+" "+JOB['name']+"..."

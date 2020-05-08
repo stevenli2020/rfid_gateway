@@ -10,28 +10,29 @@ import signal
 import atexit
 import traceback
 import random
+import hashlib
 
 def HANDLE_EXIT(*arg): 
 	global JOBS,JOB_ID,EXITING,POST_FILE
 	if os.path.isfile(POST_FILE):
 		os.remove(POST_FILE)
-
 	if not EXITING:
 		EXITING = True
-		time.sleep(random.random())
-		with open('/app/run/jobs.json', 'r+') as f0:
-			JOBS = json.loads(f0.read())
-			JOBS[JOB_ID]['pid'] = 0
-			JOBS[JOB_ID]['status'] = "stopped"
-			JOBS[JOB_ID]['exited'] = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-			f0.seek(0)
-			f0.write(json.dumps(JOBS))
-			f0.truncate()
-		with open('/app/jobs.json','r+') as f0:
-			f0.seek(0)
-			f0.write(json.dumps(JOBS))
-			f0.truncate()	
-		print "\n"+JOB_ID+": Bye!\n"
+		time.sleep(random.random()/2.0)
+		if os.path.isfile('/app/run/jobs.json'):
+			with open('/app/run/jobs.json', 'r+') as f0:
+				JOBS = json.loads(f0.read())
+				JOBS[JOB_ID]['pid'] = 0
+				JOBS[JOB_ID]['status'] = "stopped"
+				JOBS[JOB_ID]['exited'] = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+				f0.seek(0)
+				f0.write(json.dumps(JOBS))
+				f0.truncate()
+			with open('/app/jobs.json','r+') as f0:
+				f0.seek(0)
+				f0.write(json.dumps(JOBS))
+				f0.truncate()	
+		print "\n"+datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%fZ")+" > "+JOB_ID+": Bye!\n"
 		sys.exit()
 	
 atexit.register(HANDLE_EXIT)
@@ -153,6 +154,21 @@ with open('/app/jobs.json', 'r+') as f0:
 	f0.write(json.dumps(JOBS))
 	f0.truncate()
 # sys.exit()
+R = requests.get("http://localhost:8080/DeviceId")
+
+while R.status_code != 200:
+	print "Status code:" + str(R.status_code)
+	time.sleep(2)
+	print "Retry ..."
+	R = requests.get("http://localhost:8080/DeviceId")
+DEVICE_ID = json.loads(R.text)['DeviceId']
+# print "DEVICE_ID = "+DEVICE_ID
+SERVICE_KEY = hashlib.sha1(hashlib.sha512(DEVICE_ID).hexdigest()+hashlib.sha512("AVNET").hexdigest()).hexdigest()
+# print "SERVICE_KEY = "+SERVICE_KEY
+if SERVICE_KEY != JOBS[JOB_ID]['config']['service_key']:
+	print "Service key error"
+	sys.exit()
+
 QUERYSTRING = ""
 if 'items' in JOBS[JOB_ID]:
 	for item in JOBS[JOB_ID]['items']:

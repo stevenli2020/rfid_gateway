@@ -1,5 +1,6 @@
 {
 	"brain_address": "invengoasia.intellifi.nl",
 	"api_key":"3b8cbbcf-b10e-41a9-8cee-a9a956bd9c1f",
-	"report_interval":2
+	"report_interval":2,
+	"service_key": "kpcldzysmnbj5oisaupp3qomdczro6laek45s7uxclppysxr5ecq"
 }
